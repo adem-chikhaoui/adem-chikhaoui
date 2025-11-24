@@ -6,13 +6,13 @@
 
 ## 👨‍💻 Computer Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=2nd+Year+%40+ESPRIT+Tunisia;C%2B%2B+%7C+Python+%7C+Qt+%7C+Arduino;Building+Real-World+Solutions;Future+Engineering+in+France+🇫🇷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=2nd+Year+%40+ESPRIT+Tunisia;C%2B%2B+%7C+Python+%7C+Qt+%7C+Arduino;Building+Real-World+Solutions)](https://git.io/typing-svg)
 
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=adem-chikhaoui&label=Profile%20Views&color=667eea&style=flat-square)
-![Followers](https://img.shields.io/github/followers/adem-chikhaoui?label=Followers&style=flat-square&color=764ba2)
-![Stars](https://img.shields.io/github/stars/adem-chikhaoui?label=Stars&style=flat-square&color=8b5cf6)
+![Views](https://komarev.com/ghpvc/?username=adem-chikhaoui&label=Profile%20Views&color=667eea&style=flat-square&logo=eye)
+![Followers](https://img.shields.io/github/followers/adem-chikhaoui?label=Followers&style=flat-square&color=764ba2&logo=github)
+![Stars](https://img.shields.io/github/stars/adem-chikhaoui?label=Stars&style=flat-square&color=8b5cf6&logo=github)
 
 </div>
 
@@ -34,7 +34,6 @@ I specialize in **C++, Qt, and Arduino development**, building solutions that se
 
 - 🚗 **Building innovative software** that creates real-world impact
 - 🔧 **Exploring IoT & Embedded Systems** to push technological boundaries
-- 🎯 **Pursuing Engineering studies in France** by 2026
 - 💡 **Turning complex problems** into elegant code solutions
 
 #### Currently working on:
@@ -67,13 +66,13 @@ I specialize in **C++, Qt, and Arduino development**, building solutions that se
 
 **Driving School Management System**
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 Complete solution with student tracking, vehicle monitoring, and real-time Arduino hardware integration.
 
-[![Explore](https://img.shields.io/badge/-Explore_Project-667EEA?style=for-the-badge&logoColor=white)](https://github.com/adem-chikhaoui/smart-drive-management-software)
+[![Explore](https://img.shields.io/badge/-Explore_Project-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adem-chikhaoui/smart-drive-management-software)
 
 </td>
 
@@ -84,12 +83,12 @@ Complete solution with student tracking, vehicle monitoring, and real-time Ardui
 **Educational Gaming Experience**
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![SDL2](https://img.shields.io/badge/-SDL2-FF6F00?style=flat-square)
+![SDL2](https://img.shields.io/badge/-SDL2-FF6F00?style=flat-square&logo=sdl&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 2D educational game with custom-built Arduino controller focusing on mythology and history.
 
-[![Explore](https://img.shields.io/badge/-Explore_Project-764BA2?style=for-the-badge&logoColor=white)](https://github.com/adem-chikhaoui/educational-game-controller-app)
+[![Explore](https://img.shields.io/badge/-Explore_Project-764BA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adem-chikhaoui/educational-game-controller-app)
 
 </td>
 
@@ -105,7 +104,7 @@ Complete solution with student tracking, vehicle monitoring, and real-time Ardui
 
 Modern booking system with Google Sheets integration and analytics dashboard.
 
-[![Explore](https://img.shields.io/badge/-Explore_Project-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/adem-chikhaoui/smiri-location-rental-website)
+[![Explore](https://img.shields.io/badge/-Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adem-chikhaoui/smiri-location-rental-website)
 
 </td>
 </tr>
@@ -126,7 +125,7 @@ Modern booking system with Google Sheets integration and analytics dashboard.
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -135,7 +134,7 @@ Modern booking system with Google Sheets integration and analytics dashboard.
 **Frameworks & Tools**
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-FF6F00?style=for-the-badge&logoColor=white)
+![SDL2](https://img.shields.io/badge/SDL2-FF6F00?style=for-the-badge&logo=sdl&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Databases & Cloud**
@@ -148,7 +147,7 @@ Modern booking system with Google Sheets integration and analytics dashboard.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
