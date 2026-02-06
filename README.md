@@ -174,7 +174,5 @@ Modern booking system with Google Sheets integration and analytics dashboard.
 </div>
 
 <div align="center">
-  
   ⭐ **Thanks for visiting!** Feel free to explore my projects ⭐
-  
 </div>
