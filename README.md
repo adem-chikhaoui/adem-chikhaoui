@@ -1,3 +1,11 @@
+<!--
+Theme goal: same as your website (dark glass + blue/purple gradient).
+GitHub README can't use external CSS, so we simulate the "widget" look using:
+- Capsule header/footer with your palette
+- Dark badges + consistent accent colors
+- “Card” blocks with tables + subtle separators
+-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Adem%20Chikhaoui&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
@@ -6,105 +14,56 @@
 
 ## 👨‍💻 Computer Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=2nd+Year+%40+ESPRIT+Tunisia;C%2B%2B+%7C+Python+%7C+Qt+%7C+Arduino;Building+Real-World+Solutions)](https://git.io/typing-svg)
+<a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D7CFF&center=true&vCenter=true&width=640&lines=2nd+Year+%40+ESPRIT+Tunisia;C%2B%2B+%7C+Python+%7C+Qt+%7C+Arduino;Building+Real-World+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D7CFF&center=true&vCenter=true&width=640&lines=2nd+Year+%40+ESPRIT+Tunisia;C%2B%2B+%7C+Python+%7C+Qt+%7C+Arduino;Building+Real-World+Solutions" alt="Typing SVG" />
+</a>
 
-<br>
+<br><br>
 
-![Views](https://komarev.com/ghpvc/?username=adem-chikhaoui&label=Profile%20Views&color=667eea&style=flat-square&logo=eye)
-![Followers](https://img.shields.io/github/followers/adem-chikhaoui?label=Followers&style=flat-square&color=764ba2&logo=github)
-![Stars](https://img.shields.io/github/stars/adem-chikhaoui?label=Stars&style=flat-square&color=8b5cf6&logo=github)
+<!-- “Glass widget” vibe: dark bg + website accents -->
+<img src="https://img.shields.io/badge/Profile%20Views-—-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=eye&logoColor=FFFFFF" alt="Views"/>
+<img src="https://img.shields.io/badge/Followers-—-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=github&logoColor=FFFFFF" alt="Followers"/>
+<img src="https://img.shields.io/badge/Stars-—-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=star&logoColor=FFFFFF" alt="Stars"/>
+
+<br><br>
+
+<!-- subtle divider in your palette -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&section=header" width="100%"/>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-<br>
-
-### 🎯 About Me
-
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="margin-left: 20px; margin-bottom: 20px;">
-
-I'm a **Computer Engineering student** at ESPRIT, Tunis 🇹🇳, passionate about creating technology that makes a difference.
-
-I specialize in **C++, Qt, and Arduino development**, building solutions that seamlessly connect hardware and software to solve real-world challenges.
-
-#### What drives me:
-
-- 🚗 **Building innovative software** that creates real-world impact
-- 🔧 **Exploring IoT & Embedded Systems** to push technological boundaries
-- 💡 **Turning complex problems** into elegant code solutions
-
-#### Currently working on:
-
-- 🔭 **Smart Drive** - Complete driving school management system with Arduino integration
-- 🌱 **Mastering OOP & System Architecture** for scalable applications
-- 🚀 **Learning advanced embedded systems** and real-time programming
-
-💬 **Want to collaborate or discuss tech?** Let's connect!
-
-📬 **Reach me at:** [ademchikhaoui105@gmail.com](mailto:ademchikhaoui105@gmail.com)
-
-<br clear="both">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-<br>
-
-<h2 align="center">🚀 Featured Projects</h2>
+## 🎯 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%">
+<td width="62%" valign="top">
 
-### 🚗 [Smart Drive](https://github.com/adem-chikhaoui/smart-drive-management-software)
+### 👋 Hi, I'm Adem
 
-**Driving School Management System**
+I'm a **Computer Engineering student** at **ESPRIT (Tunis 🇹🇳)**, passionate about building technology that connects **software + hardware**.
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+**Focus:** C++/Qt desktop apps • SDL2 experiences • Arduino / embedded prototypes • Linux tooling.
 
-Complete solution with student tracking, vehicle monitoring, and real-time Arduino hardware integration.
+**What drives me**
+- Building reliable, real-world solutions
+- Exploring IoT & embedded systems
+- Turning complex problems into clean architecture
 
-[![Explore](https://img.shields.io/badge/-Explore_Project-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adem-chikhaoui/smart-drive-management-software)
+**Currently**
+- 🔭 Smart Drive (Qt/C++ + Arduino integration)
+- 🌱 Improving OOP, system design, and architecture
+- 🚀 Learning advanced embedded & real-time concepts
 
-</td>
-
-<td width="33%">
-
-### 🎮 [Game + Controller](https://github.com/adem-chikhaoui/educational-game-controller-app)
-
-**Educational Gaming Experience**
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![SDL2](https://img.shields.io/badge/-SDL2-FF6F00?style=flat-square&logo=sdl&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-2D educational game with custom-built Arduino controller focusing on mythology and history.
-
-[![Explore](https://img.shields.io/badge/-Explore_Project-764BA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adem-chikhaoui/educational-game-controller-app)
+📬 **Email:** [ademchikhaoui105@gmail.com](mailto:ademchikhaoui105@gmail.com)
 
 </td>
+<td width="38%" valign="top" align="center">
 
-<td width="33%">
-
-### 🚙 [Smiri Location](https://github.com/adem-chikhaoui/smiri-location-rental-website)
-
-**Car Rental Platform**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Sheets](https://img.shields.io/badge/-Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-
-Modern booking system with Google Sheets integration and analytics dashboard.
-
-[![Explore](https://img.shields.io/badge/-Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adem-chikhaoui/smiri-location-rental-website)
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding"/>
 
 </td>
 </tr>
@@ -114,7 +73,83 @@ Modern booking system with Google Sheets integration and analytics dashboard.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&section=header" width="100%"/>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<!-- Widgets as “cards”: same accent colors as site -->
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🚗 Smart Drive
+**Driving School Management System**
+
+<img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=cplusplus&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Qt-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=qt&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Arduino-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=arduino&logoColor=FFFFFF" />
+
+Complete solution with student tracking, scheduling, vehicle management, and Arduino integration.
+
+<br><br>
+
+<a href="https://github.com/adem-chikhaoui/smart-drive-management-software">
+  <img src="https://img.shields.io/badge/Explore-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=github&logoColor=FFFFFF" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎮 Game + Controller
+**Educational Gaming Experience**
+
+<img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=c&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/SDL2-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=sdl&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Arduino-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=arduino&logoColor=FFFFFF" />
+
+2D educational game with a custom Arduino controller focused on mythology & history.
+
+<br><br>
+
+<a href="https://github.com/adem-chikhaoui/educational-game-controller-app">
+  <img src="https://img.shields.io/badge/Explore-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=github&logoColor=FFFFFF" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚙 Smiri Location
+**Car Rental Platform**
+
+<img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Sheets-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=google-sheets&logoColor=FFFFFF" />
+
+Modern booking flow + Google Sheets integration + analytics dashboard.
+
+<br><br>
+
+<a href="https://github.com/adem-chikhaoui/smiri-location-rental-website">
+  <img src="https://img.shields.io/badge/Explore-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=github&logoColor=FFFFFF" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&section=header" width="100%"/>
 
 <br>
 
@@ -122,49 +157,52 @@ Modern booking system with Google Sheets integration and analytics dashboard.
 
 <div align="center">
 
-**Languages**
+<!-- Same palette, “widget badges” -->
+<img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=c&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=cplusplus&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=css3&logoColor=FFFFFF" />
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br><br>
 
-**Frameworks & Tools**
+<img src="https://img.shields.io/badge/Qt-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=qt&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/SDL2-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=sdl&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Arduino-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=arduino&logoColor=FFFFFF" />
 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-FF6F00?style=for-the-badge&logo=sdl&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<br><br>
 
-**Databases & Cloud**
+<img src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Oracle-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=oracle&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Google%20Sheets-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=google-sheets&logoColor=FFFFFF" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+<br><br>
 
-**Development Environment**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=linux&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS%20Code-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=visualstudiocode&logoColor=FFFFFF" />
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&section=header" width="100%"/>
 
 <br>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adem-chikhaoui-aa0840371)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adem.chikhaoui50)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademchikhaoui105@gmail.com)
-
+  <a href="https://linkedin.com/in/adem-chikhaoui-aa0840371">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&labelColor=0B1220&color=6D7CFF&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+  <a href="https://instagram.com/adem.chikhaoui50">
+    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA&logo=instagram&logoColor=FFFFFF" />
+  </a>
+  <a href="mailto:ademchikhaoui105@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B&logo=gmail&logoColor=FFFFFF" />
+  </a>
 </div>
 
 <br>
@@ -174,5 +212,5 @@ Modern booking system with Google Sheets integration and analytics dashboard.
 </div>
 
 <div align="center">
-  ⭐ **Thanks for visiting!** Feel free to explore my projects ⭐
+  ⭐ Thanks for visiting! Feel free to explore my projects ⭐
 </div>
